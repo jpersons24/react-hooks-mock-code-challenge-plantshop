@@ -41,6 +41,13 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Fern",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2019/08/indoor-fern.jpg",
+      "price": "5.50",
+      "id": 8,
+      "inStock": true
     }
   ]
 }
